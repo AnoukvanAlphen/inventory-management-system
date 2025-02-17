@@ -1,0 +1,17 @@
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\obj\Debug\Inventory_management.csproj.AssemblyReference.cache
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\obj\Debug\Inventory_management.csproj.SuggestedBindingRedirects.cache
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\obj\Debug\Inventory_management.csproj.CoreCompileInputs.cache
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\bin\Debug\Inventory_management.exe.config
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\bin\Debug\Inventory_management.exe
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\bin\Debug\Inventory_management.pdb
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\obj\Debug\Inventory_management.exe
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\day 3\Inventory_management\obj\Debug\Inventory_management.pdb
+C:\Users\27763\OneDrive\Desktop\Inventory management program\bin\Debug\Inventory_management.exe.config
+C:\Users\27763\OneDrive\Desktop\Inventory management program\bin\Debug\Inventory_management.exe
+C:\Users\27763\OneDrive\Desktop\Inventory management program\bin\Debug\Inventory_management.pdb
+C:\Users\27763\OneDrive\Desktop\Inventory management program\obj\Debug\Inventory_management.csproj.AssemblyReference.cache
+C:\Users\27763\OneDrive\Desktop\Inventory management program\obj\Debug\Inventory_management.FormMain.resources
+C:\Users\27763\OneDrive\Desktop\Inventory management program\obj\Debug\Inventory_management.csproj.GenerateResource.cache
+C:\Users\27763\OneDrive\Desktop\Inventory management program\obj\Debug\Inventory_management.csproj.CoreCompileInputs.cache
+C:\Users\27763\OneDrive\Desktop\Inventory management program\obj\Debug\Inventory_management.exe
+C:\Users\27763\OneDrive\Desktop\Inventory management program\obj\Debug\Inventory_management.pdb
