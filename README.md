@@ -1,2 +1,3 @@
 # inventory-management-system
-in progress management system
+in progress 
+dummy inventory management system 
